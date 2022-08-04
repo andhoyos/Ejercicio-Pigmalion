@@ -1,5 +1,6 @@
 # Ejercicio-Pigmalion
-Enunciado
+# Enunciado
+
 Dada la siguiente problemática: ¿puede un número X formarse usando la suma de 2 elementos
 de un array?
 
